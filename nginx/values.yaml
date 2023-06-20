@@ -1,3 +1,7 @@
 image: "nginx"
+
+# How much replicas to run
 replicas: 1
+
+# External port for internal IP
 port: 80
