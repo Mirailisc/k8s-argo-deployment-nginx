@@ -1,3 +1,4 @@
+# Docker image
 image: "nginx"
 
 # How much replicas to run
