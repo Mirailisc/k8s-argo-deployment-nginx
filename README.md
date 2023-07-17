@@ -5,7 +5,7 @@ use with ArgoCD and Helm
 ## Prerequisite
 
 - Kubernetes (k3s / k8s)
-- ArgoCD
+- ArgoCD (https://argo-cd.readthedocs.io/en/stable/getting_started/)
 
 ## How to use this repo
 
